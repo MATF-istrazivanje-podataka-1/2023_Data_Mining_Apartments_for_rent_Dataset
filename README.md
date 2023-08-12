@@ -1,1 +1,3 @@
-2023_Data_Mining_Apartments_for_rent_Dataset
+Projekat za kurs Istrazivanje podataka 1 na smeru Informatika, Matematicki fakultet u Beogradu.  
+  
+U nastavku rada cu pokusati da prikazem gde je najbolje ziveti u Americi, iako licno ne podrzavam taj put.
