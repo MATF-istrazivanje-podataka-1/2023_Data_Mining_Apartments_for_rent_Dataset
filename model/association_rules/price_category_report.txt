@@ -1,0 +1,6 @@
+Consequent	Antecedent 	Support %	Confidence %
+price_category = Expensive	state = CA	9.625	87.853
+price_category = Expensive	state = NJ	3.86	68.146
+price_category = Cheap/Affordable	state = MO	2.409	63.598
+price_category = Cheap/Affordable	state = IN	2.409	62.343
+price_category = Expensive	state = WA	5.231	61.85
